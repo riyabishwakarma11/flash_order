@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010124734701",
+    "project_id": "flashorder-6640e",
+    "storage_bucket": "flashorder-6640e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010124734701:android:621580224a362ee090cce4",
+        "android_client_info": {
+          "package_name": "com.example.flash_order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywf9FPz2lMNFFMNRn4OhEvhEYIQBY6NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
